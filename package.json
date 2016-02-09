@@ -1,0 +1,11 @@
+{
+  "name": "node-vex",
+  "version": "1.0.0",
+  "description": "Vector encoder for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Walker <me@nwalker.org> (http://nwalker.org)",
+  "license": "MIT"
+}
