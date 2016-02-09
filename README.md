@@ -1,1 +1,1 @@
-See also (vex-java)[https://github.com/nathan-walker/vex-java]
+See also [vex-java](https://github.com/nathan-walker/vex-java)
